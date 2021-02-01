@@ -1,0 +1,23 @@
+{
+    "name": "YunaBot",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "pxt-kitronik-move-motor": "github:kitronikltd/pxt-kitronik-move-motor#v0.3.2",
+        "SSD1306_OLED": "github:muselab/pxt-muselab-oled-v2#v2.0.20"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
